@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/G L B/Documents/GitHub/The_Last_Train/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles\\last_train.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\last_train.dir\\src\\core\\level.cpp.obj -c \"C:\\Users\\G L B\\Documents\\GitHub\\The_Last_Train\\src\\core\\level.cpp\"",
+  "file": "C:/Users/G L B/Documents/GitHub/The_Last_Train/src/core/level.cpp",
+  "output": "CMakeFiles/last_train.dir/src/core/level.cpp.obj"
+},
+{
+  "directory": "C:/Users/G L B/Documents/GitHub/The_Last_Train/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles\\last_train.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\last_train.dir\\src\\core\\logger.cpp.obj -c \"C:\\Users\\G L B\\Documents\\GitHub\\The_Last_Train\\src\\core\\logger.cpp\"",
+  "file": "C:/Users/G L B/Documents/GitHub/The_Last_Train/src/core/logger.cpp",
+  "output": "CMakeFiles/last_train.dir/src/core/logger.cpp.obj"
+},
+{
+  "directory": "C:/Users/G L B/Documents/GitHub/The_Last_Train/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles\\last_train.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\last_train.dir\\src\\core\\main_core.cpp.obj -c \"C:\\Users\\G L B\\Documents\\GitHub\\The_Last_Train\\src\\core\\main_core.cpp\"",
+  "file": "C:/Users/G L B/Documents/GitHub/The_Last_Train/src/core/main_core.cpp",
+  "output": "CMakeFiles/last_train.dir/src/core/main_core.cpp.obj"
+},
+{
+  "directory": "C:/Users/G L B/Documents/GitHub/The_Last_Train/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles\\last_train.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\last_train.dir\\src\\core\\physics.cpp.obj -c \"C:\\Users\\G L B\\Documents\\GitHub\\The_Last_Train\\src\\core\\physics.cpp\"",
+  "file": "C:/Users/G L B/Documents/GitHub/The_Last_Train/src/core/physics.cpp",
+  "output": "CMakeFiles/last_train.dir/src/core/physics.cpp.obj"
+},
+{
+  "directory": "C:/Users/G L B/Documents/GitHub/The_Last_Train/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles\\last_train.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\last_train.dir\\src\\core\\simulator.cpp.obj -c \"C:\\Users\\G L B\\Documents\\GitHub\\The_Last_Train\\src\\core\\simulator.cpp\"",
+  "file": "C:/Users/G L B/Documents/GitHub/The_Last_Train/src/core/simulator.cpp",
+  "output": "CMakeFiles/last_train.dir/src/core/simulator.cpp.obj"
+},
+{
+  "directory": "C:/Users/G L B/Documents/GitHub/The_Last_Train/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles\\last_train.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\last_train.dir\\src\\core\\switches.cpp.obj -c \"C:\\Users\\G L B\\Documents\\GitHub\\The_Last_Train\\src\\core\\switches.cpp\"",
+  "file": "C:/Users/G L B/Documents/GitHub/The_Last_Train/src/core/switches.cpp",
+  "output": "CMakeFiles/last_train.dir/src/core/switches.cpp.obj"
+},
+{
+  "directory": "C:/Users/G L B/Documents/GitHub/The_Last_Train/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles\\last_train.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\last_train.dir\\src\\core\\util.cpp.obj -c \"C:\\Users\\G L B\\Documents\\GitHub\\The_Last_Train\\src\\core\\util.cpp\"",
+  "file": "C:/Users/G L B/Documents/GitHub/The_Last_Train/src/core/util.cpp",
+  "output": "CMakeFiles/last_train.dir/src/core/util.cpp.obj"
+},
+{
+  "directory": "C:/Users/G L B/Documents/GitHub/The_Last_Train/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles\\last_train.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\last_train.dir\\src\\core\\viewer_iface_core.cpp.obj -c \"C:\\Users\\G L B\\Documents\\GitHub\\The_Last_Train\\src\\core\\viewer_iface_core.cpp\"",
+  "file": "C:/Users/G L B/Documents/GitHub/The_Last_Train/src/core/viewer_iface_core.cpp",
+  "output": "CMakeFiles/last_train.dir/src/core/viewer_iface_core.cpp.obj"
+}
+]
