@@ -1,5 +1,6 @@
 #include "physics.h"
 #include "util.h"
+
 // Stairs and lifts are in vertical connection not in horizontal connection 
 const char STAIRS='S',LIFT1='1',LIFT2='2';
 bool isDirectlyConnected(int fromF,int fromR,int toF,int toR,const char horizontalConn[NUM_FLOORS][ROOMS_PER_FLOOR-1],char& outConnType){
@@ -77,4 +78,4 @@ bool removeItem(char inventory[MAX_INVENTORY_CAPACITY],int& inventoryCount,char 
       inventory[j]=inventory[j + 1];   //shifts left
       inventoryCount--;//decrement
       return true;}}
-    return false;}//if item is not found
+    return false;}//if item is not found,it returns false
